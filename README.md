@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun facts -  *Less than 0.5% of all data we create is ever analysed and used.*
   
-                 *Google uses about 1,000 computers to answer every single search query.*
+                 Google uses about 1,000 computers to answer every single search query.
   
                  *Nearly 80% of photos are taken on smart phones and most will become searchable data online.*
   
