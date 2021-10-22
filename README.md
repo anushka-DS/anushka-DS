@@ -7,7 +7,8 @@
 <h4>Machine Learning Enthusiast | Deep Learning | Data Analyst | Python/Java Developer | DevOps | MLOps .</h4>
 <h4>To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, exploring, unlearning and learning again and finally succeeding in the project.</h4>
 
-
+ 
+ 
 <h5>Reach me on:
   
 - My profile in <a href="https://www.linkedin.com/in/anushka-bajpai/">LinkedIn</a> 💼 
@@ -17,7 +18,6 @@
 
 
 
-Here are some ideas to get you started:
 
 
 🔭 I’m currently working on - *Data Science, Machine Learning and DevOps*
