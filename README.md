@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   
                  Google uses about 1,000 computers to answer every single search query.
   
-                 *Nearly 80% of photos are taken on smart phones and most will become searchable data online.*
+                 Nearly 80% of photos are taken on smart phones and most will become searchable data online.
   
-                 *Data Science Needs Great Communication, Analytical and Story-telling Skills.*
+                 Data Science Needs Great Communication, Analytical and Story-telling Skills.
   
-                 *75% of Data Experts use Python for Data Science Work.*
+                 75% of Data Experts use Python for Data Science Work.
   
-                 * Data Science is at the crossroads of Computer IT, Mathematics & Statistics and Domain expertise.*
+                 Data Science is at the crossroads of Computer IT, Mathematics & Statistics and Domain expertise.
 
