@@ -2,6 +2,7 @@
 
 <!--
 **anushka-DS/anushka-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h4>Machine Learning Enthusiast | Deep Learning | Data Analyst | Python Developer .</h4>
 <h4>To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, exploring, unlearning and learning again and finally succeeding in the project.</h4>
@@ -33,4 +34,4 @@ Here are some ideas to get you started:
                  *Data Science Needs Great Communication, Analytical and Story-telling Skills.*
                  *75% of Data Experts use Python for Data Science Work.*
                  * Data Science is at the crossroads of Computer IT, Mathematics & Statistics and Domain expertise.*
--->
+
