@@ -3,6 +3,9 @@
 [![GitHub anushka-DS](https://img.shields.io/github/followers/anushka-DS?label=follow&style=social)](https://github.com/anushka-DS)
 [![Linkedin: anushka-bajpai](https://img.shields.io/badge/Anushka%20Bajpai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-bajpai/)](https://www.linkedin.com/in/anushka-bajpai/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=anushka-DS&left_color=gray&right_color=blue)
+[![Medium](https://img.shields.io/badge/website-medium-blue?style=flat&logo=appveyor&link=https://medium.com/@anushkhabajpai)](https://medium.com/@anushkhabajpai)
+[![Kaggle](https://img.shields.io/badge/website-kaggle-blue?style=flat&logo=appveyor&link=https://www.kaggle.com/anushkaml)](https://www.kaggle.com/anushkaml)
+
 
 <!--
 **anushka-DS/anushka-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
