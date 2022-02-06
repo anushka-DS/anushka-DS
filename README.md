@@ -17,7 +17,7 @@
 
 - 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my Masters program* and am currently working on my thesis (GANs)
 
-- 💬 Ask me about mentoring, Machine learning , Deep Learning , Data Analytics,  Algorithms and Design, Blockchain, Software Engineeering, and MLOps.
+- 💬 Ask me about *Machine learning , Deep Learning , Data Analytics,  Algorithms and Design, Blockchain, Software Engineeering, MLOps and Mentoring*.
 
 - 😄 Words that describe me - *Self-motivated, Data-enthusiast, Cosmophile, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
 
