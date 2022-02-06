@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on - *Data Science, Machine Learning, DevOps and Network Management*
 
-- 🌱 I’m currently learning - *Deep learning, NLP and Computer Vision *
+- 🌱 I’m currently learning - *Deep learning, NLP and Computer Vision*
 
 - 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my Masters program* and am currently working on my thesis (GANs)
 
