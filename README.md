@@ -15,6 +15,8 @@
 <h4>Machine Learning Enthusiast | Deep Learning | Data Analyst | Python/Java Developer | DevOps | MLOps .</h4>
 <h4>To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, exploring, unlearning and learning again and finally succeeding in the project.</h4>
 
+<img align="left" style="padding-right: 50px" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-DS&theme=tokyonight" />
+
 [![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-DS&theme=dracula&hide_langs_below=1)]()
  
  
@@ -35,7 +37,7 @@
 
 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my online Masters program*
 
-😄 Words that describe me - *Self-motivated, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
+😄 Words that describe me - *Self-motivated, Data-enthusiast, Cosmophile, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
 
 ⚡ Fun facts -  *Less than 0.5% of all data we create is ever analysed and used.*
   
