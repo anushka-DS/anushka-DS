@@ -10,6 +10,17 @@
 **anushka-DS/anushka-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+- 🔭 I’m currently working on - *Data Science, Machine Learning, DevOps and Network Management*
+
+- 🌱 I’m currently learning - *Deep learning, NLP and Computer Vision *
+
+- 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my Masters program* and am currently working on my thesis (GANs)
+
+- 💬 Ask me about mentoring, Machine learning , Deep Learning , Data Analytics,  Algorithms and Design, Blockchain, Software Engineeering, and MLOps.
+
+- 😄 Words that describe me - *Self-motivated, Data-enthusiast, Cosmophile, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
+
 [![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka-DS&hide=issues&count_private=true&show_icons=true&theme=calm)]()
 
 <h4>Machine Learning Enthusiast | Deep Learning | Data Analyst | Python/Java Developer | DevOps | MLOps .</h4>
@@ -20,24 +31,7 @@
 [![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-DS&theme=dracula&hide_langs_below=1)]()
  
  
-<h5>Reach me on:
-  
-- My profile in <a href="https://www.linkedin.com/in/anushka-bajpai/">LinkedIn</a> 💼 
-- My website <a href="https://inprogress.com/">anushkabajpai.com</a> 📹 ✍🏾
-- My technical blogs in <a href="https://medium.com/@anushkhabajpai">Medium</a> 🏓
-- My contribution in Data Science in <a href="https://www.kaggle.com/anushkaml">Kaggle</a>🖥💻
 
-
-
-
-
-🔭 I’m currently working on - *Data Science, Machine Learning and DevOps*
-
-🌱 I’m currently learning - *Deep learning, NLP and Computer Vision *
-
-👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my online Masters program*
-
-😄 Words that describe me - *Self-motivated, Data-enthusiast, Cosmophile, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
 
 ⚡ Fun facts -  *Less than 0.5% of all data we create is ever analysed and used.*
   
