@@ -21,7 +21,7 @@
 
 - 😄 Words that describe me - *Self-motivated, Data-enthusiast, Cosmophile, Focused, Hardworking, Story-teller, Enthusiast, Ambitious*
 
-<h3>Machine learning, as a domain have always been one of my favorites. I have been researching and making several ML models, since 2017. I am more interested in Computer Vision, Transformers and RNNs and how they work with different libraries and algorithms to make wonders. I have actively worked on GANs, Gesture Recognition, Sentiment Analysis and Recommender engines. However, anything about AI and ML is quite amazing.<h3>
+<h3>Machine learning, as a domain has always been one of my favorites. I have been actively researching and making several ML models, since 2017. I am more interested in Computer Vision, Transformers and RNNs and how they work with different libraries and algorithms to make wonders. I have hands on experience working with GANs, Gesture Recognition, Sentiment Analysis and Recommender engines.<h3>
 
 [![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka-DS&hide=issues&count_private=true&show_icons=true&theme=calm)]()
 
