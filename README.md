@@ -1,3 +1,7 @@
+<a href="https://github.com/anushka-DS/">
+  <img align="center" src="https://https://github.com/anushka-DS/anushka-DS/blob/main/anushka_gifbg.gif?raw=true" />
+</a>
+
 
 <h1 align="center"> Hi there! 👋 this is Anushka Bajpai</h1>
 
