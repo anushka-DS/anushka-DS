@@ -49,4 +49,6 @@
                  75% of Data Experts use Python for Data Science Work.
   
                  Data Science is at the crossroads of Computer IT, Mathematics & Statistics and Domain expertise.
+ 
+ <h3 align="right">🌈 Best Wishes 🌈</h3>
 
