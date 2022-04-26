@@ -1,5 +1,5 @@
 <a href="https://github.com/anushka-DS/">
-  <img align="center" src="https://github.com/anushka-DS/anushka-DS/blob/main/bgid_anushka.gif" />
+  <img align="center" src="https://github.com/anushka-DS/anushka-DS/blob/main/bgif_anushka.gif" />
 </a>
 <h1 align="center"> Hi there! 👋 this is Anushka Bajpai</h1>
 
