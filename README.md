@@ -1,4 +1,5 @@
-### Hi there 👋 this is Anushka
+
+<h1 align="center"> Hi there! 👋 this is Anushka Bajpai</h1>
 
 [![GitHub anushka-DS](https://img.shields.io/github/followers/anushka-DS?label=follow&style=social)](https://github.com/anushka-DS)
 [![Linkedin: anushka-bajpai](https://img.shields.io/badge/Anushka%20Bajpai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-bajpai/)](https://www.linkedin.com/in/anushka-bajpai/)
