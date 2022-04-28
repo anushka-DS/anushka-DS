@@ -87,5 +87,5 @@
   
 
  
- <h3 align="right">🌈 Best Wishes 🌈</h3>
+ <h3 align="center">🌈 Best Wishes 🌈</h3>
 
