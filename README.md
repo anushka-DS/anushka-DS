@@ -56,6 +56,7 @@
 
 <h3>Machine learning, as a domain has always been one of my favorites. I have been actively researching and making several ML models, since 2017. I am more interested in Computer Vision, Transformers and RNNs and how they work with different libraries and algorithms to make wonders. I have hands on experience working with GANs, Gesture Recognition, Sentiment Analysis and Recommender engines.<h3>
 
+  <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 [![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushka-DS&hide=issues&count_private=true&show_icons=true&theme=calm)]()
 
 <h4>Apart from making applications, I also like Data Analysis. It always surprises me how a little amount of data can give so much information. They are the best story tellers. Kaggle is my go to place for data exploration. I use python for my EDA projects. Some of the platforms I like to use are Kaggle notebooks, Jupyter Lab and Google Colab.<h4>
