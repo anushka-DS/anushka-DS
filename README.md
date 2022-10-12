@@ -5,7 +5,7 @@
 
 [![GitHub anushka-DS](https://img.shields.io/github/followers/anushka-DS?label=follow&style=social)](https://github.com/anushka-DS)
 [![Linkedin: anushka-bajpai](https://img.shields.io/badge/Anushka%20Bajpai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-bajpai/)](https://www.linkedin.com/in/anushka-bajpai/)
-[![Medium](https://img.shields.io/badge/medium-anushkabajpai-blue?style=flat&logo=appveyor&link=https://medium.com/@anushkhabajpai)](https://medium.com/@anushkhabajpai)
+[![Medium](https://img.shields.io/badge/medium-anushkabajpai-blue?style=flat&logo=appveyor&link=https://medium.com/@anushka.datascoop)](https://medium.com/@anushka.datascoop)
 [![Kaggle](https://img.shields.io/badge/kaggle-ANUSHKA_ML-blue?style=flat&logo=appveyor&link=https://www.kaggle.com/anushkaml)](https://www.kaggle.com/anushkaml)
 
 
